@@ -1,0 +1,12 @@
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\bin\Debug\LicenseVerifier.dll
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\bin\Debug\LicenseVerifier.pdb
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\obj\Debug\LicenseVerifier.csproj.AssemblyReference.cache
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\obj\Debug\LicenseVerifier.csproj.CoreCompileInputs.cache
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\obj\Debug\LicenseVerifier.dll
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\obj\Debug\LicenseVerifier.pdb
+C:\Users\ljriv\OneDrive\Escritorio\ControlDeLicencia\VerificadorLicencia-DLL\CodigoFuente\LicenseVerifier\bin\Debug\LicenseVerifier.dll
+C:\Users\ljriv\OneDrive\Escritorio\ControlDeLicencia\VerificadorLicencia-DLL\CodigoFuente\LicenseVerifier\bin\Debug\LicenseVerifier.pdb
+C:\Users\ljriv\OneDrive\Escritorio\ControlDeLicencia\VerificadorLicencia-DLL\CodigoFuente\LicenseVerifier\obj\Debug\LicenseVerifier.csproj.AssemblyReference.cache
+C:\Users\ljriv\OneDrive\Escritorio\ControlDeLicencia\VerificadorLicencia-DLL\CodigoFuente\LicenseVerifier\obj\Debug\LicenseVerifier.csproj.CoreCompileInputs.cache
+C:\Users\ljriv\OneDrive\Escritorio\ControlDeLicencia\VerificadorLicencia-DLL\CodigoFuente\LicenseVerifier\obj\Debug\LicenseVerifier.dll
+C:\Users\ljriv\OneDrive\Escritorio\ControlDeLicencia\VerificadorLicencia-DLL\CodigoFuente\LicenseVerifier\obj\Debug\LicenseVerifier.pdb

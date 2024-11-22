@@ -1,0 +1,6 @@
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\bin\Debug\DesktopVerificator.dll
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\bin\Debug\DesktopVerificator.pdb
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\obj\Debug\DesktopVerificator.csproj.AssemblyReference.cache
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\obj\Debug\DesktopVerificator.csproj.CoreCompileInputs.cache
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\obj\Debug\DesktopVerificator.dll
+C:\Users\ljriv\OneDrive\Documentos\Aplix\Encriptador\VerificadorDeLicencia\DesktopVerificator\DesktopVerifier\DesktopVerificator\obj\Debug\DesktopVerificator.pdb

@@ -1,0 +1,75 @@
+--------------------------------------------------------------------------
+|                                                                        |
+|                            Llamada al DLL                              | 
+|                                                                        |
+--------------------------------------------------------------------------
+
+LicenseVerifier.Checker.Check(Key,NombreHost,NombreBD,userBD,contraseñaBD)
+
+
+Eso retorna un arreglo de string de tamaño 2 o 3
+
+--------------------------------------------------------------------------
+|                                                                        |
+|                                Retorno                                 | 
+|                                 Valido                                 |
+|									 |
+--------------------------------------------------------------------------
+
+Es un arreglo de tamaño 2, donde sus argumentos son:
+
+["LicenciaValida",@razonValides]
+
+En el Desarrollo no se debe mostrar nada
+
+
+--------------------------------------------------------------------------
+|                                                                        |
+|                                Retorno                                 | 
+|                               InValido                                 |
+|									 |
+--------------------------------------------------------------------------
+
+Esto sucede cuando pasa un error de lectura o cuando hay una inconsistencia de datos
+
+Es un arreglo de tamaño 2, donde sus argumentos son:
+
+["LicenciaInvalida",@razonValides]
+
+En el Desarrollo se debe mostrar:
+
+"La licencia registrada para el uso del producto es inválida. Le agradecemos se comunique tan pronto le sea posible con su ejecutivo de Aplix para obtener su correspondiente licencia y así evitarle mayores inconvenientes"
+
+
+--------------------------------------------------------------------------
+|                                                                        |
+|                                Retorno                                 | 
+|                                Mensaje                                 |
+|									 |
+--------------------------------------------------------------------------
+
+
+Este pasa cuando es asunto de fechas es decir faltan 8 dias para su vencimiento, el usuario se encuentra en sus 3 dias de gracia.
+
+Es un arreglo de tamaño 2 cuando es valida,donde sus argumentos son:
+
+["LicenciaMensaje",@MensajeMostrar]
+
+
+En el Desarrollo se debe mostrar:
+
+@MensajeMostrar
+
+---------------------------------------------------------------------------
+
+Cuando ya se vencio la licencia por fecha
+
+Es un arreglo de tamaño 3 cuando es valida,donde sus argumentos son:
+
+["LicenciaMensaje",@MensajeMostrar,"Expirada"]
+
+
+En el Desarrollo se debe mostrar:
+
+@MensajeMostrar
+

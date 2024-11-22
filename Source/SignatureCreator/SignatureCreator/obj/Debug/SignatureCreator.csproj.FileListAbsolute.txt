@@ -1,0 +1,10 @@
+C:\Users\ljriv\Documents\Aplix\Repos\Licencias\Source\SignatureCreator\SignatureCreator\bin\Debug\SignatureCreator.exe.config
+C:\Users\ljriv\Documents\Aplix\Repos\Licencias\Source\SignatureCreator\SignatureCreator\bin\Debug\SignatureCreator.exe
+C:\Users\ljriv\Documents\Aplix\Repos\Licencias\Source\SignatureCreator\SignatureCreator\bin\Debug\SignatureCreator.pdb
+C:\Users\ljriv\Documents\Aplix\Repos\Licencias\Source\SignatureCreator\SignatureCreator\obj\Debug\SignatureCreator.csproj.AssemblyReference.cache
+C:\Users\ljriv\Documents\Aplix\Repos\Licencias\Source\SignatureCreator\SignatureCreator\obj\Debug\SignatureCreator.MainView.resources
+C:\Users\ljriv\Documents\Aplix\Repos\Licencias\Source\SignatureCreator\SignatureCreator\obj\Debug\SignatureCreator.Properties.Resources.resources
+C:\Users\ljriv\Documents\Aplix\Repos\Licencias\Source\SignatureCreator\SignatureCreator\obj\Debug\SignatureCreator.csproj.GenerateResource.cache
+C:\Users\ljriv\Documents\Aplix\Repos\Licencias\Source\SignatureCreator\SignatureCreator\obj\Debug\SignatureCreator.csproj.CoreCompileInputs.cache
+C:\Users\ljriv\Documents\Aplix\Repos\Licencias\Source\SignatureCreator\SignatureCreator\obj\Debug\SignatureCreator.exe
+C:\Users\ljriv\Documents\Aplix\Repos\Licencias\Source\SignatureCreator\SignatureCreator\obj\Debug\SignatureCreator.pdb
